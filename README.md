@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ankitsingh214
-- 👀 I’m interested in Python, JAVA, UI technology Applications
+- 👋 Hi, I’m Ankit Singh
+- 👀 I’m interested in Python, Java, UI technology Applications.
 - 🌱 I’m currently learning java Servlet, Angular JS, Data Mining and Data Warehousing.
-- 💞️ I’m looking to collaborate on ...
-- 📫 mail me ankittech111@gmail.com ...
+- 👨‍💻 All of my projects are available at https://ankitsingh214.github.io/MyDevPortfolio/
+- 📫 How to reach me ankittech111@gmail.com 
 
 <!---
 Ankitsingh214/Ankitsingh214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
