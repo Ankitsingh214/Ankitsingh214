@@ -1,8 +1,13 @@
 👋 Hi, I’m Ankit Singh
+
 👀 I’m currently focused on Salesforce CRM, exploring both Admin and Developer roles.
+
 🌱 I’m learning Salesforce configuration, automation, Apex programming, and Lightning Web Components (LWC).
+
 💼 Actively building skills in CRM workflows, data management, and app customization on the Salesforce platform.
+
 📂 Check out my projects and progress at: https://ankitsingh214.github.io/MyDevPortfolio/
+
 📫 Reach me at: ankittech111@gmail.com
 
 <!---  
